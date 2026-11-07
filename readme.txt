@@ -7,4 +7,5 @@ new
 Creating a new branch is quick and simple.
 new hello.py
 new hello.py
+add new hello.py
 
